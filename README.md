@@ -89,7 +89,8 @@ Order profitability was split into three broad groups based on `Order Profit Per
 
 This shows that while most orders are profitable, a meaningful share of the business is margin-negative, which becomes more concerning when combined with high delay rates.
 
-![Profitability Distribution](images/profitability_distribution.png)
+<img width="446" height="409" alt="image" src="https://github.com/user-attachments/assets/31377647-eb48-45f2-99b3-bcd935d27822" />
+
 
 ### Delay Distribution & Profit vs. Delay Days
 
@@ -99,7 +100,8 @@ Delay-day analysis shows that:
 - Delays of **1–4 days** account for most of the late-delivery burden
 - Profit remains exposed across delayed cohorts, with delayed orders contributing heavily to financial risk
 
-![Delay Distribution & Profit vs. Delay Days](images/delay_distribution_profit_vs_delay.png)
+<img width="1590" height="590" alt="image" src="https://github.com/user-attachments/assets/f8d8c07c-0b52-4b2f-b263-cafdc3b83cf1" />
+
 
 ## Bottleneck Detection
 
@@ -123,7 +125,8 @@ Delay rates were analyzed across six important operating dimensions:
 - Customer segments are nearly identical in delay exposure
 - Department-level differences exist, but they are smaller than the shipping mode effect
 
-![Bottleneck Detection](images/bottleneck_detection.png)
+<img width="1611" height="711" alt="image" src="https://github.com/user-attachments/assets/73dd26b1-72a9-41e1-bd16-e50213363b32" />
+
 
 ## Root Cause Analysis
 
@@ -141,7 +144,8 @@ The top drivers in that region include:
 
 This points to operational design and process bottlenecks rather than random fluctuation.
 
-![Root Cause Analysis](images/root_cause_analysis.png)
+<img width="764" height="444" alt="image" src="https://github.com/user-attachments/assets/39f7874c-5920-4c63-aae6-fa19e7675f95" />
+
 
 ## Time-Based Delay Patterns
 
@@ -160,7 +164,8 @@ Three temporal dimensions were analyzed:
 
 These patterns suggest that capacity planning and cutoff-time management are more important than calendar-day scheduling changes.
 
-![Time-Based Delay Patterns](images/time_based_patterns.png)
+<img width="1790" height="590" alt="image" src="https://github.com/user-attachments/assets/3bf23699-bd44-46a7-8ed6-3f80a4f19e10" />
+
 
 ## Machine Learning Model
 
