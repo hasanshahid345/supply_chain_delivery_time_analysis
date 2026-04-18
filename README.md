@@ -211,16 +211,4 @@ This project shows a clear operational problem: late delivery is widespread, fin
 
 The strongest insight is that the problem is **systemic but actionable**. Shipping mode design, payment friction, and fulfillment timing patterns explain much of the delay burden. At the same time, a machine learning model already provides a useful foundation for proactive order-risk detection.
 
-Overall, this project demonstrates how descriptive analytics, business diagnosis, and predictive modeling can be combined into one practical analytics portfolio case.
 
-## Image Placement Notes
-
-Put these files inside your repository's `images/` folder using these exact names:
-
-```text
-images/profitability_distribution.png
-images/delay_distribution_profit_vs_delay.png
-images/bottleneck_detection.png
-images/root_cause_analysis.png
-images/time_based_patterns.png
-```
