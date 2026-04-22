@@ -207,8 +207,8 @@ A supervised classification model was built to predict whether an order would be
 
 ## Conclusion
 
-This project shows a clear operational problem: late delivery is widespread, financially meaningful, and diagnosable with data.
+We can observe a clear operational problem: late delivery is widespread, financially meaningful, and diagnosable with data.
 
-The strongest insight is that the problem is **systemic but actionable**. Shipping mode design, payment friction, and fulfillment timing patterns explain much of the delay burden. At the same time, a machine learning model already provides a useful foundation for proactive order-risk detection.
+The strongest insight is that the problem is **systemic but actionable**. Shipping mode design, payment friction, and fulfillment timing patterns explain much of the delay burden. 
 
 
