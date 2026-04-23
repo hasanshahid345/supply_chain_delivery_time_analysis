@@ -1,8 +1,8 @@
 # Global E-Commerce Delivery Delay & Profitability Analysis
 
-An end-to-end analytics and machine learning project that diagnoses chronic late deliveries in a global e-commerce operation, quantifies their profitability impact, and identifies operational levers for improvement.
+An end-to-end analytics and machine learning system that diagnoses chronic late deliveries in a global e-commerce operation, quantifies their profitability impact, and identifies operational levers for improvement.
 
-## Project Summary
+## Executive Summary
 
 This project analyzes **172,765 orders** from **January 2015 to January 2018** to answer four core business questions:
 
@@ -64,7 +64,7 @@ project-root/
 └── README.md
 ```
 
-## Executive Summary
+## Findings
 
 The analysis shows that late delivery is not a marginal issue. It is the default experience for a majority of customers. More than half of all orders arrive late, and delayed orders are tied to **$2.1M** in at-risk profit. The strongest operational failure is shipping mode performance, while time-based patterns and regional analysis reveal where targeted intervention is most valuable.
 
